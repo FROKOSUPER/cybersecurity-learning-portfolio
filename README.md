@@ -1,8 +1,8 @@
 # Cybersecurity Learning Portfolio
 
-Welcome! I am a freshman computer science student building a foundation in cybersecurity through hands-on labs, Linux practice, and careful technical documentation.
+I'm a freshman computer science student learning cybersecurity through OverTheWire, Linux practice, and small projects. I use this repository to keep notes on what I try, what goes wrong, and what I learn along the way.
 
-This repository tracks what I am learning, how I approach unfamiliar problems, and how those skills connect to real security work. The goal is not to publish challenge answers. It is to demonstrate understanding, problem-solving, and steady progress.
+I leave out passwords and full challenge solutions.
 
 ## Current Focus
 
