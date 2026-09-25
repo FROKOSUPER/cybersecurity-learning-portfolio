@@ -1,0 +1,17 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files and local secrets
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
+
+# Do not commit private keys or common credential files
+*.pem
+*.key
+credentials.json
